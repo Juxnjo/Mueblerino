@@ -1,4 +1,5 @@
 import './header.css'
+import header from '/src/assets/Header.jpeg'
 
 export const Header = () => {
   return (
@@ -11,7 +12,7 @@ export const Header = () => {
             <button className='border-2 rounded-lg font-medium'>¡Mejora ya!</button>
             </div>
         </div>
-        <img src="/src/assets/Header.jpeg" alt="" />
+        <img src={header} alt="header" />
     </div>
     
   )
