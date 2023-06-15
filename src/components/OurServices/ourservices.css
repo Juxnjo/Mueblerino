@@ -1,0 +1,37 @@
+.servicios{
+    background-color: #333333;
+    color: white;
+    padding: 25px;
+    padding-top: 35px;
+}
+
+.servicios h1{
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
+.servicio{
+    padding-bottom: 25px;
+}
+
+.servicio img{
+    padding-bottom: 25px;
+}
+
+.servicio h1{
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+
+.servicio p{
+    font-size: 16px;
+}
+
+button{
+    font-size: 16px;
+    margin: 16px 0px 0px;
+    padding: 8px 16px;
+    border-color: #B4A76C;
+    color: #B4A76C;
+    width: 25%;
+}

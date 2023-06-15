@@ -1,0 +1,24 @@
+.contacto{
+    background-color: #333333;
+    color: white;
+    padding: 25px;
+    padding-top: 35px;   
+}
+
+.contacto p{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+button{
+    font-size: 16px;
+    margin: 16px 0px 0px;
+    padding: 8px 16px;
+    border-color: #B4A76C;
+    color: #B4A76C;
+    width: 100%;   
+}
+
+button:hover{
+    background-color: #b4a76c4b ;
+}

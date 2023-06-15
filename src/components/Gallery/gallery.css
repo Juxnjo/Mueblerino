@@ -1,0 +1,15 @@
+.galeria{
+    background-color: #333333;
+    color: white;
+    padding: 25px;
+    padding-top: 35px;   
+}
+
+.galeria h1{
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
+.portafolio img{
+    padding-bottom: 25px;
+}

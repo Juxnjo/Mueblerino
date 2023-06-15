@@ -1,0 +1,28 @@
+.header{
+    background-color: #1A4E5D;
+    color: white;
+    padding: 25px;
+    padding-top: 35px;
+}
+
+.informacion h1{
+    font-size: 48px;
+}
+
+.informacion p{
+    font-size: 21px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.informacion button{
+    font-size: 20px;
+    margin: 20px 0px 0px;
+    padding: 12px 16px;
+    border-color: #B4A76C;
+    color: #B4A76C;
+    width: 100%;
+}
+
+img{
+    width: 100%;   
+}
